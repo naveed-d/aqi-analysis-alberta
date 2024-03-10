@@ -6,7 +6,28 @@
 
 ## Table of Contents
 
-[TOC]
+- [Structure of the Repository](#structure-of-the-repository)
+- [Overview](#overview)
+  - [Summary](#summary)
+  - [Key Questions](#key-questions)
+- [Key Insights and Findings](#key-insights-and-findings)
+  - [How have the PM2.5 Levels changed since 2014 in each city?](#how-have-the-pm25-levels-changed-since-2014-in-each-city)
+  - [What are the average PM2.5 levels across each city (monitoring station)?](#what-are-the-average-pm25-levels-across-each-city-monitoring-station)
+  - [What is the frequency of PM2.5 levels detected in each city that are above the average?](#what-is-the-frequency-of-pm25-levels-detected-in-each-city-that-are-above-the-average)
+  - [What months, and cities, tend to have above-average PM2.5 levels?](#what-months-and-cities-tend-to-have-above-average-pm25-levels)
+  - [What periods in the year do above-average PM2.5 occur the most?](#what-periods-in-the-year-do-above-average-pm25-occur-the-most)
+  - [What is the longest duration of above-average PM2.5 levels for each monitoring station?](#what-is-the-longest-duration-of-above-average-pm25-levels-for-each-monitoring-station)
+- [Data & Methodology](#data--methodology)
+  - [Data Source(s)](#data-sources)
+  - [Structure of the Data](#structure-of-the-data)
+  - [Methods Used](#methods-used)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Results/Findings](#resultsfindings)
+- [Limitations](#limitations)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Structure of the Repository
 
