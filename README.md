@@ -156,7 +156,7 @@ pip install -r requirements.txt
 
 **IDIFY method:**
 
-1. Find the notebooks in the `HTML Notebooks` folder. 
+1. Download the notebooks found in the `HTML Notebooks` folder. 
 
 - `aqi_cleaning_nb.html` - HTML version of Data Cleaning Notebook (in HTML).
 
@@ -164,7 +164,9 @@ pip install -r requirements.txt
 
 ​	These versions contain the information, insights and analyses I performed with embedded interactive plotly charts without the need to initialize an environment or clone this repo.
 
-​	(*I did it for you, aka* ***IDIFY***)
+2. Open the file in a web browser to view the notebook.
+
+(*I did it for you, aka* ***IDIFY***)
 
 **DIY method:**
 
