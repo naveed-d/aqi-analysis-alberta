@@ -147,8 +147,8 @@ In summary, PM2.5 levels exhibit clear seasonal patterns, with specific cities f
 Clone the repository and install dependencies to set up the analysis environment:
 
 ```bash
-git clone https://github.com/your-username/pm25-air-quality-analysis-alberta.git
-cd pm25-air-quality-analysis-alberta
+git clone https://github.com/naveed-d/aqi-analysis-alberta.git
+cd aqi-analysis-alberta
 pip install -r requirements.txt
 ```
 
