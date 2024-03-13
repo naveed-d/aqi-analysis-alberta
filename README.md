@@ -72,19 +72,19 @@ This report provides an in-depth analysis of Particulate Matter 2.5 (PM2.5) air 
 
 ### Key Insights and Findings
 
-#### How have the PM2.5 Levels changed since 2014 in each city?<img src="/../../pm25-timeseries_city.png" alt="pm25-timeseries_city" style="zoom:80%;" /><img src="/../../pm25-timeseries_city_facet.png" alt="pm25-timeseries_city_facet" style="zoom:80%;" />
+#### How have the PM2.5 Levels changed since 2014 in each city? <img src="/outputs/pm25-timeseries_city.png" alt="pm25-timeseries_city" style="zoom:80%;" /><img src="/outputs/pm25-timeseries_city_facet.png" alt="pm25-timeseries_city_facet" style="zoom:80%;" />
 
 - The PM2.5 levels have shown variability over time in each city. Notable spikes in PM2.5 levels correspond to specific events, like the wildfires near Fort McMurray in 2016. Since 2018, Edmonton and Fort McMurray have shown similar AQI readings, with occasional data collection gaps in Edmonton.
 
-#### What are the average PM2.5 levels across each city (monitoring station)?<img src="/../avg-pm-levels_city.png" style="zoom: 67%;">
+#### What are the average PM2.5 levels across each city (monitoring station)?<img src="/outputs/avg-pm-levels_city.png" style="zoom: 67%;">
 
 - Calgary and Edmonton have higher average PM2.5 levels compared to Fort McMurray and Lethbridge. This suggests urban traffic, industrial emissions, and geographical factors contribute to these differences.
 
-#### What is the frequency of PM2.5 levels detected in each city that are above the average?<img src="/../above-avg-occurances_city.png" alt="above-avg-occurances_city" style="zoom:67%;" />
+#### What is the frequency of PM2.5 levels detected in each city that are above the average?<img src="/outputs/above-avg-occurances_city.png" alt="above-avg-occurances_city" style="zoom:67%;" />
 
 - Calgary experiences the highest frequency of days with above-average PM2.5 levels, followed by Lethbridge, Fort McMurray, and Edmonton. This ranking suggests that larger urban centers and their activities might be significant contributors to elevated PM2.5 levels.
 
-#### What months, and cities, tend to have above-average PM2.5 levels?<img src="../above-avg-pm25-occurances-city_monthpairs.png" alt="above-avg-occurances_city" style="zoom:67%;" />
+#### What months, and cities, tend to have above-average PM2.5 levels?<img src="/outputs/above-avg-pm25-occurances-city_monthpairs.png" alt="above-avg-occurances_city" style="zoom:67%;" />
 
 - **Jan-Feb and Mar-Apr:** Calgary has the highest number of above-average PM2.5 occurrences, likely due to heating emissions and temperature inversions.
 - **May-Jun:** Fort McMurray sees a spike, aligning with wildfire season.
@@ -92,12 +92,12 @@ This report provides an in-depth analysis of Particulate Matter 2.5 (PM2.5) air 
 - **Sep-Oct:** Calgary and Lethbridge almost tie, suggesting similar contributing factors.
 - **Nov-Dec:** Calgary again ranks highest, possibly due to increased heating demands and holiday activities.
 
-#### What periods in the year do above-average PM2.5 occur the most?<img src="../above-average-pm25-levels_monthpair.png" alt="above-average-pm25-levels_monthpair" style="zoom:67%;" />
+#### What periods in the year do above-average PM2.5 occur the most?<img src="/outputs/above-average-pm25-levels_monthpair.png" alt="above-average-pm25-levels_monthpair" style="zoom:67%;" />
 
 - **Jul-Aug:** The highest frequency of above-average PM2.5 occurrences across cities, likely due to wildfires and agricultural activities.
 - **Jan-Feb and Nov-Dec:** Elevated levels in colder months could be attributed to increased heating demands and holiday activities, alongside temperature inversions that trap pollutants.
 
-#### What is the longest duration of above-average PM2.5 levels for each monitoring station?<img src="../consecutive-days-above-avg-pm25_city.png" alt="consecutive-days-above-avg-pm25_city" style="zoom:67%;" />
+#### What is the longest duration of above-average PM2.5 levels for each monitoring station?<img src="/outputs/consecutive-days-above-avg-pm25_city.png" alt="consecutive-days-above-avg-pm25_city" style="zoom:67%;" />
 
 - The insights provided do not specify exact durations. However, given the seasonal trends, one might infer that durations correlate with specific events like wildfire seasons in Fort McMurray or agricultural activities in Lethbridge.
 
