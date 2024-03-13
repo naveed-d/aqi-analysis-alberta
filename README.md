@@ -1,8 +1,3 @@
----
-typora-root-url: ./outputs/pm25-timeseries_city.png
----
-
-
 
 # PM2.5 Air Quality Analysis in Alberta (2014-2024)
 
